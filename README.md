@@ -16,9 +16,8 @@ This is a web project for categorizing and validating phone numbers. Phone numbe
 ## Known Bugs
 At the moment there are no known bugs.
 ## Technologies Used
-It was developed using HTML5, Bootstrap5 and Reactjs.
+It was developed using Java and Docker.
 ## Support and contact details
 For any support concerning source code and request to collaborate, contact me via: kipkemoibenard195@gmail.com.
 ### License
-*This project uses MIT license.*
 Copyright (c) 2023**Kipkemoi Benard**
