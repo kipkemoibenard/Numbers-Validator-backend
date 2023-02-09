@@ -1,4 +1,3 @@
-# Numbers-Validator-backend
 # International PhoneNumber Validator
 #### This Project is developed to demonstrtate problem solving skills and code quality
 #### By **Kipkemoi Benard**
@@ -16,8 +15,7 @@ This is a web project for categorizing and validating phone numbers. Phone numbe
 ## Known Bugs
 At the moment there are no known bugs.
 ## Technologies Used
-It was developed using Java and Docker.
+It was developed using Java and docker.
 ## Support and contact details
-For any support concerning source code and request to collaborate, contact me via: kipkemoibenard195@gmail.com.
-### License
+For any support concerning source code and request to collaborate, contact me via: kipkemoibenard195@gmail.com or kipkemoibenard195@yahoo.com.
 Copyright (c) 2023**Kipkemoi Benard**
